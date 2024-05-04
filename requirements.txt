@@ -1,0 +1,5 @@
+python3-lxml
+flask_cors
+flasgger
+jsonschema==3.0.1
+pathlib2
