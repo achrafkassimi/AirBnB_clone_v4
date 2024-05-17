@@ -156,6 +156,8 @@ No known bugs at this time.
 ## Authors
 Achraf KASSIMI - [Github](https://github.com/achrafkassimi)
 
+Yassine Taleb - [Github](https://github.com/devproggithub)
+
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
