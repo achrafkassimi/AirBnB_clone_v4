@@ -1,6 +1,6 @@
 window.addEventListener('load', function () {
   // task 3
-  $.ajax('http://34.203.77.238:5001/api/v1/status').done(function (data) {
+  $.ajax('http://34.203.77.238/api/v1/status').done(function (data) {
     if (data.status === 'OK') {
       $('#api_status').addClass('available');
     } else {
